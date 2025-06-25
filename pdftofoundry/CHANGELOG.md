@@ -1,3 +1,6 @@
+## 5.0.1
+- Minor fix to allow initial v13 support
+
 ## 5.0.0
 
 - Update to v12
