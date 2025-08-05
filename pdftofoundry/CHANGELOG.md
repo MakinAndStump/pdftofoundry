@@ -44,5 +44,5 @@
 - Fix issue in Night of the Gray Death causing a map to not be imported
 - Super minor fix in Sundered Waves
 - Remove opt-in telemetry since there's paid modules now
-- Moved to github (https://github.com/fryguy1013/pdftofoundry)
+- Moved to github (https://github.com/mmainz/pdftofoundry)
 - Lots of minor technical debt fixes
